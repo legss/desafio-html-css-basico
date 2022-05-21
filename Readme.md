@@ -4,15 +4,10 @@ Este desafio, faz parte do treinamento Dev Quest, realizado pelo [Dev-em-Dobro](
 
 ## Sumário
 
-- [Visão Geral](#resumo)
   - [Screenshot](#screenshot)
   - [Live Site](#live-site)
-- [Processo de criação](#processo-de-crição)
   - [O que foi usado?](#o-que-foi-usado?)
   - [O que eu aprendi](#o-que-eu-aprendi)
-  - [Para os proximos projetos](#para-os-proximos-projetos)
-  - [Recursos utilizados](#recursos-utilizados)
-- [Author](#author)
 
 ## Visão Geral
 
