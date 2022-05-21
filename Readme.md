@@ -18,7 +18,7 @@ Este desafio, faz parte do treinamento Dev Quest, realizado pelo [Dev-em-Dobro](
 
 ### Screenshot
 
-![](img/full-size-capture.jpg)
+![](img/full-size-capture.png)
 
 ### Live Site
 
