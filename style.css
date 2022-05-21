@@ -22,21 +22,18 @@
 
 .tabela-roupas {
     margin-left: 3em;
-    width: 40%;
+    width: 30%;
     
 }
 
-.header-table {
-    text-align: start;
-}
 
-.header-table, .header-table-tamanho, .header-table-produto{
+.header-table-preco, .header-table-tamanho, .header-table-produto{
     background-color: #BB86FC;
     color: white;
     padding: 4px 0 4px 10px;
-    font-size: 1.5em;
-    
+    font-size: 2em;
     border-radius: 2px;
+    text-align: start;
 }
 
 .row-conteudo {
@@ -44,11 +41,8 @@
     color: white;
 }
 
-.conteudo {
+.conteudo-produto, .conteudo-tamanho, .conteudo-preco {
     padding: 8px 0 8px 10px;
-}
-
-.conteudo-tamanho, .header-table-tamanho {
-    text-align: center;
-    width: 20%;
+    text-align: start;
+    font-size: 1.5em;
 }
